@@ -1,0 +1,14 @@
+layout_spectrum: 0.7926752110943198
+typography_spectrum: 0.8476268940139562
+color:
+  brandStrength: 0.9100301505532116
+  lightness: 0.8743325017858297
+  saturation: 0.39525582175701857
+  rhythmicContrast: 0.5694408400449902
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: OM
